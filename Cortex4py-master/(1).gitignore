@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+.vscode/
+tmp/
+*.pyc
+dist/
+build/
+*.egg-info
+build.sh
+
+# Python Venv
+bin/
+lib/
+lib64
+pyvenv.cfg
+venv/
